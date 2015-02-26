@@ -1,4 +1,4 @@
-import numpy as np 
+#import numpy as np 
 from  math import sqrt as sq
 from pprint import pprint 
 from numpy import linalg as la
